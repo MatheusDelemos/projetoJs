@@ -9,4 +9,6 @@ function toggleMode(){
     img.setAttribute("src", "./assets/assets/avatar2.jpg")
     
   }
+   
 }
+console.log("ok");
